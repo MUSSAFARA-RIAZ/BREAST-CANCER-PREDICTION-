@@ -3,7 +3,7 @@ Our project employs Decision Tree AI for early breast cancer detection. We've fi
 # ML ALGORITHMS-  🚀
 1)Random forest
 2) Decision Tree
-Description 💥
+## DESCRIPTION-💥
 In the realm of machine learning, the choice of the right algorithm can significantly impact model performance.
 This project delves into a comparative analysis of two prominent algorithms,
 Decision Trees and Random Forest, both trained on the same dataset.
