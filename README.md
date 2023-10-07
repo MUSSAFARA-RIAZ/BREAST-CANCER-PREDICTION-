@@ -1,4 +1,4 @@
-# BREAST-CANCER-PREDICTION-
+# BREAST-CANCER--PREDICTION-
 Our project employs Decision Tree AI for early breast cancer detection. We've fine-tuned the model using curated data, enhancing diagnosis accuracy for healthcare providers.
 # ML ALGORITHMS-  🚀
 1)Random forest
